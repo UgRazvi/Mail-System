@@ -1,0 +1,28 @@
+.login-form {
+  width: 400px;
+  background: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+form label {
+  display: block;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+form input[type="text"],
+form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  /* border: */
+}
